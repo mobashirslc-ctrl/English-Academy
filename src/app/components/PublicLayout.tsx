@@ -17,9 +17,9 @@ export function PublicLayout() {
       {/* Top bar */}
       <div style={{ background: '#ea580c' }} className="text-white py-2 px-4 hidden md:block">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
-          <span className="text-sm">🎓 English Academy — Bangladesh's Premier Multi-Platform Education Hub</span>
+          <span className="text-sm">🎓 English Academy(Proposals for Saifur's Kishoreganj branch) — Bangladesh's Premier Multi-Platform Education Hub</span>
           <div className="flex items-center gap-4 text-sm">
-            <span className="flex items-center gap-1"><Phone size={12} /> +880 1700-000000</span>
+            <span className="flex items-center gap-1"><Phone size={12} /> +8801613432107</span>
             <Link to="/login" className="hover:underline">Login</Link>
             <Link to="/register" className="bg-white text-orange-600 px-3 py-0.5 rounded-full hover:bg-orange-50 transition-colors">Register</Link>
           </div>
